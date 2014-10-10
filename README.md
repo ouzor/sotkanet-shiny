@@ -1,9 +1,9 @@
 Sotkanet: Alueellinen hyvinvointi
 ==============
 
-R code for the Sotkanet: Alueellinen hyvinvointi [Shiny-visualization](https://ouzor.shinyapps.io/sotkanet/).
+R code for the [Sotkanet: Alueellinen hyvinvointi](https://ouzor.shinyapps.io/sotkanet/) Shiny-visualization.
 
-NOTE! The visualization was moved from [here](http://spark.rstudio.com/ouzor/Sotkanet/) and the code from [here](https://github.com/louhos/takomo/blob/master/Demos_Helsinki/Sotkanet/) in October 2014.
+NOTE! The visualization was originally in [spark.rstudio.com](http://spark.rstudio.com/ouzor/Sotkanet/) and the code in [takomo-repository](https://github.com/louhos/takomo/blob/master/Demos_Helsinki/Sotkanet/), but they were moved here in October 2014.
 
 Details
 * The Shiny app and data preprocessing scripts are found in this repository
