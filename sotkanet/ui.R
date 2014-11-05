@@ -21,7 +21,8 @@ shinyUI(fluidPage(
       selectInput("plotType", "Visualisointitapa", c("Motion chart" = "motionchart", "Kartta" = "map")),
       conditionalPanel(
         condition = "input.plotType == 'motionchart'",
-        helpText(h4("Motion chartin asetukset:")),
+        p("Huom! Vaatii Flashin!"),
+        h4("Motion chartin asetukset:"),
         
         radioButtons("region.category", "Aluekategoria",
                      c("Kunta" = "kunta",
